@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "aa4aa4f084a87180705053ed4fb3ae56"
-application_url = "https://3121-2401-4900-1c7b-514b-255a-d416-84c3-3d8b.ngrok-free.app"
+application_url = "https://45ee-2401-4900-889a-a608-687e-c683-c985-8a77.ngrok-free.app"
 embedded = true
 name = "test-new"
 handle = "test-new-52"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://3121-2401-4900-1c7b-514b-255a-d416-84c3-3d8b.ngrok-free.app/auth/callback",
-  "https://3121-2401-4900-1c7b-514b-255a-d416-84c3-3d8b.ngrok-free.app/auth/shopify/callback",
-  "https://3121-2401-4900-1c7b-514b-255a-d416-84c3-3d8b.ngrok-free.app/api/auth/callback"
+  "https://45ee-2401-4900-889a-a608-687e-c683-c985-8a77.ngrok-free.app/auth/callback",
+  "https://45ee-2401-4900-889a-a608-687e-c683-c985-8a77.ngrok-free.app/auth/shopify/callback",
+  "https://45ee-2401-4900-889a-a608-687e-c683-c985-8a77.ngrok-free.app/api/auth/callback"
 ]
 
 [pos]
