@@ -3,6 +3,8 @@
         "autoincrement",
         "codegen",
         "monikarai",
-        "qrcode"
+        "ngrok",
+        "qrcode",
+        "vite"
     ]
 }
